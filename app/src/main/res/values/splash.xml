@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyApp.MySplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/asclepius_logo</item>
+        <item name="splashScreenIconSize">@dimen/splashscreen_icon_size</item>
+        <item name="postSplashScreenTheme">@style/Theme.Asclepius</item>
+    </style>
+</resources>
